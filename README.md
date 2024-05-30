@@ -16,6 +16,116 @@ project for the [Rust](https://www.rust-lang.org/) language.
 Indirect inspiration comes from [Ruby Koans](http://rubykoans.com/)
 and the Little LISPer/Little Schemer series of books.
 
+## Progress
+- [X] 001\_hello.zig
+- [X] 002\_std.zig
+- [X] 003\_assignment.zig
+- [X] 004\_arrays.zig
+- [X] 005\_arrays2.zig
+- [X] 006\_strings.zig
+- [X] 007\_strings2.zig
+- [X] 008\_quiz.zig
+- [X] 009\_if.zig
+- [X] 010\_if2.zig
+- [X] 011\_while.zig
+- [X] 012\_while2.zig
+- [X] 013\_while3.zig
+- [X] 014\_while4.zig
+- [X] 015\_for.zig
+- [X] 016\_for2.zig
+- [X] 017\_quiz2.zig
+- [X] 018\_functions.zig
+- [X] 019\_functions2.zig
+- [X] 020\_quiz3.zig
+- [X] 021\_errors.zig
+- [X] 022\_errors2.zig
+- [X] 023\_errors3.zig
+- [X] 024\_errors4.zig
+- [X] 025\_errors5.zig
+- [X] 026\_hello2.zig
+- [X] 027\_defer.zig
+- [X] 028\_defer2.zig
+- [X] 029\_errdefer.zig
+- [X] 030\_switch.zig
+- [X] 031\_switch2.zig
+- [X] 032\_unreachable.zig
+- [X] 033\_iferror.zig
+- [X] 034\_quiz4.zig
+- [X] 035\_enums.zig
+- [X] 036\_enums2.zig
+- [X] 037\_structs.zig
+- [X] 038\_structs2.zig
+- [X] 039\_pointers.zig
+- [X] 040\_pointers2.zig
+- [X] 041\_pointers3.zig
+- [X] 042\_pointers4.zig
+- [X] 043\_pointers5.zig
+- [X] 044\_quiz5.zig
+- [X] 045\_optionals.zig
+- [X] 046\_optionals2.zig
+- [X] 047\_methods.zig
+- [X] 048\_methods2.zig
+- [X] 049\_quiz6.zig
+- [X] 050\_no\_value.zig
+- [X] 051\_values.zig
+- [X] 052\_slices.zig
+- [X] 053\_slices2.zig
+- [X] 054\_manypointers.zig
+- [X] 055\_unions.zig
+- [X] 056\_unions2.zig
+- [X] 057\_unions3.zig
+- [X] 058\_quiz7.zig
+- [X] 059\_integers.zig
+- [ ] 060\_floats.zig
+- [ ] 061\_coercions.zig
+- [ ] 062\_loop\_expressions.zig
+- [ ] 063\_labels.zig
+- [ ] 064\_builtins.zig
+- [ ] 065\_builtins2.zig
+- [ ] 066\_comptime.zig
+- [ ] 067\_comptime2.zig
+- [ ] 068\_comptime3.zig
+- [ ] 069\_comptime4.zig
+- [ ] 070\_comptime5.zig
+- [ ] 071\_comptime6.zig
+- [ ] 072\_comptime7.zig
+- [ ] 073\_comptime8.zig
+- [ ] 074\_comptime9.zig
+- [ ] 075\_quiz8.zig
+- [ ] 076\_sentinels.zig
+- [ ] 077\_sentinels2.zig
+- [ ] 078\_sentinels3.zig
+- [ ] 079\_quoted\_identifiers.zig
+- [ ] 080\_anonymous\_structs.zig
+- [ ] 081\_anonymous\_structs2.zig
+- [ ] 082\_anonymous\_structs3.zig
+- [ ] 083\_anonymous\_lists.zig
+- [ ] 084\_async.zig
+- [ ] 085\_async2.zig
+- [ ] 086\_async3.zig
+- [ ] 087\_async4.zig
+- [ ] 088\_async5.zig
+- [ ] 089\_async6.zig
+- [ ] 090\_async7.zig
+- [ ] 091\_async8.zig
+- [ ] 092\_interfaces.zig
+- [ ] 093\_hello\_c.zig
+- [ ] 094\_c\_math.zig
+- [ ] 095\_for3.zig
+- [ ] 096\_memory\_allocation.zig
+- [ ] 097\_bit\_manipulation.zig
+- [ ] 098\_bit\_manipulation2.zig
+- [ ] 099\_formatting.zig
+- [ ] 100\_for4.zig
+- [ ] 101\_for5.zig
+- [ ] 102\_testing.zig
+- [ ] 103\_tokenization.zig
+- [ ] 104\_threading.zig
+- [ ] 105\_threading2.zig
+- [ ] 106\_files.zig
+- [ ] 107\_files2.zig
+- [ ] 999\_the\_end.zig
+
 ## Intended Audience
 
 This will probably be difficult if you've _never_ programmed
