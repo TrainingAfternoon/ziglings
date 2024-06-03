@@ -76,10 +76,10 @@ and the Little LISPer/Little Schemer series of books.
 - [X] 057\_unions3.zig
 - [X] 058\_quiz7.zig
 - [X] 059\_integers.zig
-- [ ] 060\_floats.zig
-- [ ] 061\_coercions.zig
-- [ ] 062\_loop\_expressions.zig
-- [ ] 063\_labels.zig
+- [X] 060\_floats.zig
+- [X] 061\_coercions.zig
+- [X] 062\_loop\_expressions.zig
+- [X] 063\_labels.zig
 - [ ] 064\_builtins.zig
 - [ ] 065\_builtins2.zig
 - [ ] 066\_comptime.zig
