@@ -80,18 +80,18 @@ and the Little LISPer/Little Schemer series of books.
 - [X] 061\_coercions.zig
 - [X] 062\_loop\_expressions.zig
 - [X] 063\_labels.zig
-- [ ] 064\_builtins.zig
-- [ ] 065\_builtins2.zig
-- [ ] 066\_comptime.zig
-- [ ] 067\_comptime2.zig
-- [ ] 068\_comptime3.zig
-- [ ] 069\_comptime4.zig
-- [ ] 070\_comptime5.zig
-- [ ] 071\_comptime6.zig
-- [ ] 072\_comptime7.zig
-- [ ] 073\_comptime8.zig
-- [ ] 074\_comptime9.zig
-- [ ] 075\_quiz8.zig
+- [X] 064\_builtins.zig
+- [X] 065\_builtins2.zig
+- [X] 066\_comptime.zig
+- [X] 067\_comptime2.zig
+- [X] 068\_comptime3.zig
+- [X] 069\_comptime4.zig
+- [X] 070\_comptime5.zig
+- [X] 071\_comptime6.zig
+- [X] 072\_comptime7.zig
+- [X] 073\_comptime8.zig
+- [X] 074\_comptime9.zig
+- [X] 075\_quiz8.zig
 - [ ] 076\_sentinels.zig
 - [ ] 077\_sentinels2.zig
 - [ ] 078\_sentinels3.zig
